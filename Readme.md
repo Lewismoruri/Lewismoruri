@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/lewismoruri" target="blank"><img src="https://img.shields.io/twitter/follow/lewismoruri?logo=twitter&style=for-the-badge" alt="lewismoruri" /></a> </p>
 
-- 🔭 I’m currently working on [little pirate's code](https://github.com/Lewismoruri/Little-Pirate-s-Code-Adventure/tree/main)
 
-- 🌱 I’m currently learning **Dart with flutter**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [little pirate's code](https://github.com/Lewismoruri/Little-Pirate-s-Code-Adventure/tree/main)
+- 👯 I’m looking to collaborate 
 
 - 📫 How to reach me **morurilewis@gmail.com**
 
